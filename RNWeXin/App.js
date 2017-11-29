@@ -37,7 +37,7 @@ export default class ywgrn extends Component {
      fetch(url)
       .then((response) => response.json())
       .then((responseJson) => {
-
+      //ssssssssssssssssssssssasasasasasasasasassaa
       // this.setState({item:[
       // 					{banner:responseJson.banner},
       // 					{demand_sign:responseJson.demand_sign},
